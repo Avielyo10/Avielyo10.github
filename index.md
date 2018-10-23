@@ -1,7 +1,8 @@
 ## Personal Info
 Phone: +972-50-9067205  
 Email: Avielyo10@gmail.com  
-[LinkedIn](www.linkedin.com/in/avielyosef)
+[GitHub Account](https://github.com/Avielyo10)   
+[LinkedIn Account](https://www.linkedin.com/in/avielyosef) 
 
 ## Experience
 
@@ -34,4 +35,4 @@ _03/2016 - 12/2016_
 - Certified as: **MCSA 2012**, **VMware VCP6**, **CCNA & CCSA**.
 - Hands-On course, including network management, virtualization, communication and cybersecurity solutions. 
 
-
+ 
