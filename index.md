@@ -2,16 +2,17 @@
 Phone: +972-50-9067205  
 Email: Avielyo10@gmail.com  
 [GitHub Account](https://github.com/Avielyo10)   
-[LinkedIn Account](https://www.linkedin.com/in/avielyosef) 
-
+[LinkedIn Account](https://www.linkedin.com/in/avielyosef)
 
 ## Experience
 
 _**CI\DevOps Intern - Red Hat**_  
 _08/2018 - present_ 
 
-In my role I've develop plug-ins for **Jenkins** that infect a lot of clients around the world make their work be more efficient. 
-I've used tools like **Vagrant**, **Docker**, **Ansible & LinchPin** and wrote code with Java and scripts with **bash & Python**.
+In my role I've developed plug-ins for **Jenkins** that infect a lot of clients around the world make their work be more efficient. 
+I've used tools like **Vagrant**, **Docker**, **Ansible & LinchPin** and wrote code with **Java** and scripts with **bash & Python**.  
+[The plugin that integrate LinchPin with Jenkins.](https://github.com/Avielyo10/linchpin-plugin)  
+[Jenkins Plugin Generator - Python tool that creates fast templates of jenkins plugins.](https://github.com/Avielyo10/jenkinsPluginGenerator)
 
 _**Mathematics teacher - "Matach"**_  
 _09/2017 - 08/2018_  
