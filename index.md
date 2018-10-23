@@ -1,8 +1,10 @@
 ## Personal Info
+```
 Phone: +972-50-9067205  
 Email: Avielyo10@gmail.com  
-[GitHub Account](https://github.com/Avielyo10)   
-[LinkedIn Account](https://www.linkedin.com/in/avielyosef) 
+GitHub: https://github.com/Avielyo10   
+LinkedIn: https://www.linkedin.com/in/avielyosef 
+``` 
 
 ## Experience
 
