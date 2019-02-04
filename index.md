@@ -9,10 +9,12 @@ Email: Avielyo10@gmail.com
 _**CI\DevOps Intern - Red Hat**_  
 _08/2018 - present_ 
 
-In my role I've developed plug-ins for **Jenkins** that infect a lot of clients around the world make their work be more efficient. 
+In my role I've developed plug-ins for **Jenkins** that infect a lot of clients & users around the world make their work be more efficient. 
 I've used tools like **Vagrant**, **Docker**, **Ansible & LinchPin** and wrote code with **Java** and scripts with **bash & Python**.  
-[The plugin that integrate LinchPin with Jenkins.](https://github.com/Avielyo10/linchpin-plugin)  
-[Jenkins Plugin Generator - Python tool that creates fast templates of jenkins plugins.](https://github.com/Avielyo10/jenkinsPluginGenerator)
+#### Projects:
+- [**LinchPin** integration with **Jenkins**.](https://github.com/Avielyo10/linchpin-plugin)  
+- [Jenkins Plugin Generator - **Python tool** that creates fast templates of jenkins plugins.](https://github.com/Avielyo10/jenkinsPluginGenerator) 
+- [Acceptance tests harness for **Jenkins** - Using CentOS7 **Docker** image on top of **OpenShift**.](https://github.com/Avielyo10/ATH-slave)
 
 _**Mathematics teacher - "Matach"**_  
 _09/2017 - 08/2018_  
